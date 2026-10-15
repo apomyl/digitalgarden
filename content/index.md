@@ -1,11 +1,22 @@
 ---
-title: Title of the page
-description: Description used for link previews
-permalink: custom-url-path
+title: Welcome to Apostolos' Digital Garden
+description:
+permalink:
 aliases:
-  - Alternate Name
+  - Welcome Page
 tags:
-  - example-tag
+  - MOC
 draft: false
-date: YYYY-MM-DD
+date:
 ---
+This is my attempt at a mix between a digital garden and my personal website. I'll include project breakdowns explaining projects I've worked on as well as applying "Learning in Public" for my topics of interest outside of my curriculum.
+
+Portfolio:
+- [[MediaBank]]
+- Internship Project
+- Game of Life
+- Game Jams
+
+Topics of Interest:
+- AI Safety
+- Personal Knowledge Management

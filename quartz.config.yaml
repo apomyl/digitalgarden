@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Apostolos' Digital Garden
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: IBM Plex Mono
+      body: IBM Plex Mono
+      code: Geist Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#fbfff8"
+        lightgray: "#e5ebdf"
+        gray: "#a3ad9b"
+        darkgray: "#0d100b"
+        dark: "#0d100b"
+        secondary: "#7fb851"
+        tertiary: "#bbe19c"
+        highlight: "#95dc5b"
+        textHighlight: "#95dc5b66"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#151a12"
+        lightgray: "#30382b"
+        gray: "#78856e"
+        darkgray: "#d8e2d0"
+        dark: "#f2f8ec"
+        secondary: "#a5d879"
+        tertiary: "#bbe19c"
+        highlight: "rgba(149, 220, 91, 0.15)"
+        textHighlight: "#95dc5b66"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
