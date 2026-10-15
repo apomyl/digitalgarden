@@ -1,3 +1,16 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+.callout[data-callout="garden"] {
+  --color: #527d36;
+  --border: #7fb85166;
+  --bg: #7fb8511a;
+  --callout-icon: var(--callout-icon-tip);
+}
+
+:root[saved-theme="dark"] .callout[data-callout="garden"] {
+  --color: #a5d879;
+  --border: #a5d87966;
+  --bg: #a5d8791a;
+}
