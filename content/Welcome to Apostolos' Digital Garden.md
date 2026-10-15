@@ -1,7 +1,7 @@
 Hi, my name is Apostolos. I'm a computer science student.
 
 Portfolio:
-- MediaBank
+- [[MediaBank]]
 - Internship Project
 - Game of Life
 - Game Jams
