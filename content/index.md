@@ -16,5 +16,5 @@ Portfolio:
 - [[Game Jams]]
 
 Topics of Interest:
-- [[AI Safety]]
+- [[AI Safety Learning|AI Safety]]
 - [[Personal Knowledge Management]]
