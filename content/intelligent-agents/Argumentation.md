@@ -1,24 +1,27 @@
 ---
-id: 202610181538
-aliases:
+publish: true
+created: 2026-10-18T14:38:28.325Z
+modified: 2026-10-18T14:53:46.040Z
 tags:
   - intelligentagents
   - school
 ---
->[!definition] 
->A communication strategy where [[Agents]] exchange claims, reasons, objections, and counterarguments to justify decisions or resolve disagreement
 
->[!tldr] Toulmin's Model for Argumentation
->
->![[Argumentation-1792334668250.webp|392x294]]
->
->![[Argumentation-1792334658567.webp]]
+> [!definition]
+> A communication strategy where [[Agents]] exchange claims, reasons, objections, and counterarguments to justify decisions or resolve disagreement
 
->[!tldr] Dung's Abstract Argumentation Framework
+> [!tldr] Toulmin's Model for Argumentation
 >
->Focus on "who attacks whom"
+> ![[Argumentation-1792334668250.webp|392x294]]
 >
->![[Argumentation-1792335215274.webp]]
+> ![[Argumentation-1792334658567.webp]]
+
+> [!tldr] Dung's Abstract Argumentation Framework
 >
+> Focus on "who attacks whom"
+>
+> ![[Argumentation-1792335215274.webp]]
+
 #### References
+
 - https://www.ciris.info/learningcenter/toulmins-model/
