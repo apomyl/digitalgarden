@@ -6,11 +6,24 @@
   --color: #527d36;
   --border: #7fb85166;
   --bg: #7fb8511a;
-  --callout-icon: var(--callout-icon-tip);
+  --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0%200%2024%2024' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12%203L4%2014h5l-3%206h12l-3-6h5L12%203Z'/%3E%3Cpath d='M12%2020v3'/%3E%3C/svg%3E");
 }
 
 :root[saved-theme="dark"] .callout[data-callout="garden"] {
   --color: #a5d879;
   --border: #a5d87966;
   --bg: #a5d8791a;
+}
+
+.callout[data-callout="definition"] {
+  --color: #2563eb;
+  --border: #3b82f666;
+  --bg: #3b82f61a;
+  --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0%200%2024%2024' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12%207v14'/%3E%3Cpath d='M3%2018V5a2%202%200%200%201%202-2h3a4%204%200%200%201%204%204%204%204%200%200%201%204-4h3a2%202%200%200%201%202%202v13a1%201%200%200%201-1%201h-4a4%204%200%200%200-4%202%204%204%200%200%200-4-2H4a1%201%200%200%201-1-1Z'/%3E%3C/svg%3E");
+}
+
+:root[saved-theme="dark"] .callout[data-callout="definition"] {
+  --color: #93c5fd;
+  --border: #60a5fa66;
+  --bg: #60a5fa1a;
 }

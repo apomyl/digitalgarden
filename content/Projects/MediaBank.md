@@ -6,11 +6,11 @@ tags:
   - project
 ---
 >[!garden] MediaBank - Software Engineering Project
->As part of the Software Engineering Project in my 2nd year at University, my 3 teammates and I worked for a local company: [Floating Harbour Film Studio](https://floatingharbour.co.uk/?utm_source=GBP&utm_medium=organic&utm_campaign=video-production) alongside their partners at [WECA](https://www.westofengland-ca.gov.uk). 
+>As part of the **Software Engineering Project** in my 2nd year at University, my 3 teammates and I worked for a local company: [Floating Harbour Film Studio](https://floatingharbour.co.uk/?utm_source=GBP&utm_medium=organic&utm_campaign=video-production) alongside their partners at [WECA](https://www.westofengland-ca.gov.uk). 
 >
->The unit focuses on teaching and rewarding good work practices (AGILE, CI/CD) and constant effort by tracking github statistics.
+>The unit focuses on teaching and rewarding **good work practices** (AGILE, CI/CD) and consistent effort by tracking github statistics and monitoring by a mentor.
 >
->By the end of the process, we'd developed a media storage application for internal use to help organise terabytes of footage and collaborate more effectively. I was awarded an individual mark of 85/100, the second-highest in the year, for the final product delivered and my contributions to the project.
+>By the end of the process, we'd developed a media storage application for internal use to help organise terabytes of footage and collaborate more effectively. I was awarded an **individual mark of 85/100**, the second-highest in the year, for the final product delivered and my contributions to the project.
 
 I've included some technical details and other information about the project below.
 

@@ -9,7 +9,7 @@ draft: false
 date:
 ---
 >[!garden] About Me
->My name is **Apostolos Mylonas**, I'm currently a student at University of Bristol in my 3rd year of MEnd Computer Science.
+>My name is **Apostolos Mylonas**, I'm currently a student at the University of Bristol in my 3rd year of MEng Computer Science.
 >
 >This website acts as my personal website/portfolio and as a way for me to "learn in public" by building a digital garden.
 >
@@ -26,3 +26,9 @@ Portfolio:
 Topics of Interest:
 - [[AI Safety]]
 - [[Personal Knowledge Management]]
+
+University Topics:
+- [[Intelligent Agents]]
+- Machine Learning
+- Deep Learning
+- Image Processing and Computer Vision
