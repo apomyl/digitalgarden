@@ -3,7 +3,7 @@ publish: true
 aliases:
   - SEP Project
 created: 2026-10-15T14:09:40.412Z
-modified: 2026-10-16T10:50:13.141Z
+modified: 2026-10-18T16:36:23.413Z
 tags:
   - school
   - project

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-18T14:07:47.337Z
-modified: 2026-10-18T14:35:29.222Z
+modified: 2026-10-18T16:34:27.029Z
 tags:
   - intelligentagents
   - school
@@ -40,7 +40,7 @@ $C(sbj, obj, ant, con)$
 >
 > - DECLARE - announces a fact
 
-![[Images/Intelligent Agents Lecture 2026-09-29-1790687964211.webp]]
+![[media/Intelligent Agents Lecture 2026-09-29-1790687964211.webp]]
 
 #### References/Relevant
 

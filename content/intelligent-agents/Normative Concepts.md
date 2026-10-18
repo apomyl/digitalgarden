@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-17T19:24:46.797Z
-modified: 2026-10-17T19:42:50.424Z
+modified: 2026-10-18T16:33:54.222Z
 tags:
   - intelligentagents
   - school
@@ -19,7 +19,7 @@ tags:
 > - antecedent - the triggering condition
 > - consequent - the goal
 >
-> ![[Images/Normative Concepts-1792265314123.webp|418x237]]
+> ![[media/Normative Concepts-1792265314123.webp|418x237]]
 >
 > Example: In an online bookstore (**Context**), the seller (**Subject**) is obligated to the buyer (**Object**) to dispatch the order (**Consequent**) once payment is received (**Antecedent**)
 
@@ -46,6 +46,6 @@ tags:
 
 ##### Norm Lifecycle
 
-![[Images/Sociotechnical Systems and Social Norms-1790674406151.webp]]
+![[media/Sociotechnical Systems and Social Norms-1790674406151.webp]]
 
 #### References

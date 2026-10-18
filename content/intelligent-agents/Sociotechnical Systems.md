@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-17T17:13:12.949Z
-modified: 2026-10-17T19:24:40.230Z
+modified: 2026-10-18T16:34:57.601Z
 tags:
   - intelligentagents
   - school
@@ -27,7 +27,7 @@ Two key principles are followed for adaptation:
 ##### Conceptual Model of STS
 
 > [!summary] Model from [[Norms as a Basis or Governing Sociotechnical Systems Extended Abstract|paper]]
-> ![[Images/Sociotechnical Systems-1792264588407.webp|403]]
+> ![[media/Sociotechnical Systems-1792264588407.webp|403]]
 >
 > Elements of a role façade
 >
@@ -39,7 +39,7 @@ Two key principles are followed for adaptation:
 >   - e.g. a teacher is required to help students upon request
 > - [[Normative Concepts]]
 
-![[Images/Sociotechnical Systems and Social Norms-1790672935291.webp|483]]
+![[media/Sociotechnical Systems and Social Norms-1790672935291.webp|483]]
 (Figure from lectures)
 
 #### References

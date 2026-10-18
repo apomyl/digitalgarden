@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-18T14:38:28.325Z
-modified: 2026-10-18T14:53:46.040Z
+modified: 2026-10-18T16:34:16.744Z
 tags:
   - intelligentagents
   - school
@@ -12,15 +12,15 @@ tags:
 
 > [!tldr] Toulmin's Model for Argumentation
 >
-> ![[Argumentation-1792334668250.webp|392x294]]
+> ![[media/Argumentation-1792334668250.webp|392x294]]
 >
-> ![[Argumentation-1792334658567.webp]]
+> ![[media/Argumentation-1792334658567.webp]]
 
 > [!tldr] Dung's Abstract Argumentation Framework
 >
 > Focus on "who attacks whom"
 >
-> ![[Argumentation-1792335215274.webp]]
+> ![[media/Argumentation-1792335215274.webp]]
 
 #### References
 
