@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-15T17:53:49.116Z
-modified: 2026-10-18T14:26:14.843Z
+modified: 2026-10-18T15:48:29.405Z
 tags:
   - substack
   - aisafety
@@ -20,7 +20,7 @@ tags:
 > - Network
 
 > [!warning]
-> It has come to my attention that 80,000 hours is ran by an organisation called [[Effective Altruism]], and this article among many others acts as a tool with the primary objective of recruiting members (specifically students) and spreading EA values and ideas. Other concerning characteristics of the organisation are explored in the two articles below. I still find this to be a valuable article and the information provided is still useful but I will move forward with a bit more hesitancy for the ideas raised based on the context behind it.
+> It has come to my attention that 80,000 hours is ran by an organisation called [[Effective Altruism]], and this article among many others acts as a tool with the primary objective of recruiting members (specifically students) and spreading EA values and ideas. Other concerning characteristics of the organisation are explored in the two articles below. I still find this to be a valuable article and the information provided is still useful but I will move forward with a bit more hesitation regarding the ideas raised based on the context behind them.
 >
 > For example:
 >

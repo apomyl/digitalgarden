@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-10-15T15:12:49.822Z
-modified: 2026-10-18T15:15:20.167Z
+modified: 2026-10-18T15:47:12.902Z
 tags:
   - MOC
 ---
 
-I'm interested in AI Safety; I'm documenting my learning process, following advice from this article: [[How to get into AI safety in 3 months]].
+I'm interested in AI Safety; I'm documenting my learning process, following advice from this article: [[How to get into AI safety in 3 months]]
 
 - [[literature/Articles/How to get into AI safety in 3 months.md|How to get into AI safety in 3 months]]
 - [[literature/Papers/Preparing for the Intelligence Explosion.md|Preparing for the Intelligence Explosion]]
