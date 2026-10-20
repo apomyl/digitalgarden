@@ -13,7 +13,7 @@ Good starting points are: [[Agents]] and [[Multi-Agent Systems]]
 
 List of all notes tagged #intelligentagents :
 
-- [[Obsidian/3. Slip Box/Reinforcement learning.md|Reinforcement learning]]
+- [[Obsidian/3. Slip Box/Slip Box/Reinforcement learning.md|Reinforcement learning]]
 - [[intelligent-agents/Agents.md|Agents]]
 - [[intelligent-agents/Reactive Agent.md|Reactive Agent]]
 - [[intelligent-agents/Model-based Agent.md|Model-based Agent]]
@@ -32,13 +32,21 @@ List of all notes tagged #intelligentagents :
 - [[intelligent-agents/Communicative Acts.md|Communicative Acts]]
 - [[intelligent-agents/Agent Communication Languages.md|Agent Communication Languages]]
 - [[intelligent-agents/Multi-Agent Systems.md|Multi-Agent Systems]]
-- [[literature/Papers/A Social Semantics for Agent Communication Languages.md|A Social Semantics for Agent Communication Languages]]
 - [[intelligent-agents/Speech Acts.md|Speech Acts]]
 - [[intelligent-agents/Commitment-Based Communication.md|Commitment-Based Communication]]
 - [[intelligent-agents/Negotiation.md|Negotiation]]
 - [[intelligent-agents/Argumentation.md|Argumentation]]
 - [[intelligent-agents/Trust and Reputation.md|Trust and Reputation]]
 - [[maps-of-content/Intelligent Agents.md|Intelligent Agents]]
+- [[intelligent-agents/Coordination in Agent Systems.md|Coordination in Agent Systems]]
+- [[intelligent-agents/Communication in Agent Systems.md|Communication in Agent Systems]]
+- [[intelligent-agents/Task Allocation.md|Task Allocation]]
+- [[intelligent-agents/Joint action.md|Joint action]]
+- [[intelligent-agents/Contract Net.md|Contract Net]]
+- [[intelligent-agents/Multi-Agent Path Finding.md|Multi-Agent Path Finding]]
+- [[intelligent-agents/Organisations in MAS.md|Organisations in MAS]]
+- [[intelligent-agents/Distributed Constraint Optimisation (DCOP).md|Distributed Constraint Optimisation (DCOP)]]
+- [[intelligent-agents/DPOP Algorithm.md|DPOP Algorithm]]
 
 Literature:
 
@@ -46,3 +54,5 @@ Literature:
 - [[literature/Papers/BDI Agents From Theory to Practice.md|BDI Agents From Theory to Practice]]
 - [[literature/Papers/Norms as a Basis or Governing Sociotechnical Systems Extended Abstract.md|Norms as a Basis or Governing Sociotechnical Systems Extended Abstract]]
 - [[literature/Papers/Agent Communication Languages Rethinking the Principles.md|Agent Communication Languages Rethinking the Principles]]
+- [[literature/Papers/A Social Semantics for Agent Communication Languages.md|A Social Semantics for Agent Communication Languages]]
+- [[literature/Papers/A Scalable Method for Multiagent Constraint Optimization.md|A Scalable Method for Multiagent Constraint Optimization]]

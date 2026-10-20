@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-10-18T12:07:06.678Z
-modified: 2026-10-18T14:06:18.302Z
+modified: 2026-10-19T09:44:47.312Z
 tags:
   - intelligentagents
   - school
+  - scientific-papers
 ---
 
 > [!garden] Summary
