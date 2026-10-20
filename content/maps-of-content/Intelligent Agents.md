@@ -47,6 +47,23 @@ List of all notes tagged #intelligentagents :
 - [[intelligent-agents/Organisations in MAS.md|Organisations in MAS]]
 - [[intelligent-agents/Distributed Constraint Optimisation (DCOP).md|Distributed Constraint Optimisation (DCOP)]]
 - [[intelligent-agents/DPOP Algorithm.md|DPOP Algorithm]]
+- [[intelligent-agents/Taxonomy for Decision (Game) Environments.md|Taxonomy for Decision (Game) Environments]]
+- [[intelligent-agents/Repeated Normal-Form Games.md|Repeated Normal-Form Games]]
+- [[intelligent-agents/Reward Functions.md|Reward Functions]]
+- [[intelligent-agents/Policy.md|Policy]]
+- [[intelligent-agents/Prisoner's Dilemma.md|Prisoner's Dilemma]]
+- [[intelligent-agents/Nash Equilibrium.md|Nash Equilibrium]]
+- [[intelligent-agents/Pareto Optimality.md|Pareto Optimality]]
+- [[intelligent-agents/Correlated Equilbirium.md|Correlated Equilbirium]]
+- [[intelligent-agents/Extensive-Form Games.md|Extensive-Form Games]]
+- [[intelligent-agents/Strategic Agents.md|Strategic Agents]]
+- [[intelligent-agents/Subgame Perfect Equilibrium.md|Subgame Perfect Equilibrium]]
+- [[intelligent-agents/Backward Induction.md|Backward Induction]]
+- [[intelligent-agents/Cooperation.md|Cooperation]]
+- [[intelligent-agents/Grim Trigger Strategy.md|Grim Trigger Strategy]]
+- [[intelligent-agents/Tit-for-Tat Strategy.md|Tit-for-Tat Strategy]]
+- [[intelligent-agents/Patience.md|Patience]]
+- [[intelligent-agents/Folk Theorem.md|Folk Theorem]]
 
 Literature:
 

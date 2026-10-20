@@ -3,7 +3,7 @@ publish: true
 aliases:
   - agent
 created: 2026-10-17T09:23:57.151Z
-modified: 2026-10-18T15:13:00.482Z
+modified: 2026-10-20T12:52:21.580Z
 tags:
   - intelligentagents
   - school
@@ -52,7 +52,7 @@ Properties of an Intelligent Agent:
 
 Social ability:
 
-- **Cooperation** - working together as a team to achieve a shared goal
+- **[[Cooperation]]** - working together as a team to achieve a shared goal
 - **Coordination** - managing the interdependencies between activites
 - **[[Negotiation]]** - the ability to reach agreements on matters of common interest
 
