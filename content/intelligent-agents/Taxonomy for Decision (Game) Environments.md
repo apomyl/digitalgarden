@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-20T10:03:40.418Z
-modified: 2026-10-20T12:56:15.677Z
+modified: 2026-10-21T15:56:31.841Z
 tags:
   - intelligentagents
   - school
@@ -9,7 +9,7 @@ tags:
 ---
 
 > [!definition] Summary
-> A hierarchical structure for classifying where a certain "game" lies and then choosing the correct approach for modelling and decision-making in [[Reinforcement learning]].
+> A hierarchical structure for classifying where a certain "[[Game Theory in Agent Systems|game]]" lies and then choosing the correct approach for modelling and decision-making, useful in [[Reinforcement learning]].
 >
 > Important factors:
 >
@@ -19,12 +19,14 @@ tags:
 
 > [!tldr] Types
 >
-> - [[Repeated Normal-Form Games]] - n agents, 1 state e.g. rock-paper-scissors
+> - [[Normal-Form Games]] - n agents, 1 state e.g. rock-paper-scissors
+>   - [[Repeated Normal-Form Games]] - over multiple rounds
 > - [[Markov Decision Process]] - 1 agent, m states e.g. maze navigation
-> - [[Stochastic Game]] - n agents, m states (fully observed) e.g. chess
->   - special case using tree - [[Extensive-Form Games]]
-> - [[Partially Observable Stochastic Game]] - n agents, m states (partially observed) e.g. poker (or LoL)
+> - [[Stochastic Games]] - n agents, m states (fully observed) e.g. chess
+>   - special case using tree to model sequential - [[Extensive-Form Games]]
+> - [[Partially Observable Stochastic Games]] - n agents, m states (partially observed) e.g. poker (or LoL)
+> - Sequential games - [[Backward Induction]] to find [[Subgame Perfect Equilibrium|SPE]]
 
-![[media/Intelligent Agents Lecture 2026-10-13-1791889948324.webp|476]]
+![[media/Intelligent Agents Lecture 2026-10-13-1791889948324.webp|700]]
 
 #### References

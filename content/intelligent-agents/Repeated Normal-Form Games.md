@@ -3,36 +3,38 @@ publish: true
 aliases:
   - Normal-Form Game
 created: 2026-10-20T10:12:57.734Z
-modified: 2026-10-20T12:40:44.445Z
+modified: 2026-10-21T13:37:30.707Z
 tags:
   - intelligentagents
   - school
   - game-theory
 ---
 
-> [!definition] Normal-form Game  $(I, \{A_i\}_{i \in I}, \{\mathcal{R}_i\}_{i \in I})$
->
-> - $I = \{1, \dots, n\}$: a finite set of **agents**
-> - $A_i$: agent $i$'s finite set of **actions**
->   - a **joint action** is $a = (a_1, \dots, a_n) \in A = A_1 \times \dots \times A_n$
-> - $\mathcal{R}_i : A \to \mathbb{R}$: agent $i$'s **[[Reward Functions|reward function]]** over joint actions
->
-> Assumptions:
->
-> - single step (one shot) - game is played once, no state, time or next round
-> - simultaneous choice
->
-> We can solve this by making a payoff matrix with all combinations and picking the highest payoff.
+> [!definition]
+> A [[Repeated Normal-Form Games|Normal-Form Game]] played over multiple rounds.
 
 > [!question] What changes for repeated?
 > Extended normal-form game to include sequential interaction by playing the same game over multiple rounds.
 >
-> Agents now have access to a shared history from previous rounds that can be used to determine [[Policy|policy]], rewards, etc.
+> Agents now have access to a shared history from previous rounds that can be used to determine [[Policy|policy]], [[Reward Functions|payoff]], etc.
 >
 > We can't simply use a normal payoff matrix because:
 >
 > - matrix space explodes exponentially
 > - allows for empty threats
->   Alternative: [[Backward Induction]]
+>
+> Solution: [[Backward Induction]]
+
+In infinitely repeated games, almost any feasible outcome can be sustained as an [[Nash Equilibrium|equilibrium]] if the players are [[Patience|patient]] enough.
+
+This is known as the [[Folk Theorem]].
+
+This is good as it means we have [[Non-cooperative Systems|self-interested agents]] who cooperate while self-policing.
+However, due to repetition, too many behaviours become rational [[Nash Equilibrium|equilibria]], even negative ones as seen below.
+
+> [!tldr] [[Cooperation in Agent Systems|Cooperation]] failure in Repeated Normal-Form Games
+> If you play [[Prisoner's Dilemma]] (or any [[Non-cooperative Systems|non-cooperative game]]) multiple rounds and both players know the exact final round $T$ then through [[Backward Induction]] both players will Defect on every single round since players are picking whatever is best for them in that one round only.
+>
+> In order to make cooperation rational, there can be no known final round - we need an indefinite end.
 
 #### References

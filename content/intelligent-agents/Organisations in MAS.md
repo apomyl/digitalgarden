@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-10-19T11:04:51.892Z
-modified: 2026-10-20T09:43:05.777Z
+modified: 2026-10-21T11:23:41.209Z
 tags:
   - intelligentagents
   - school
 ---
 
 > [!definition]
-> Computational structure for [[Coordination in Agent Systems|coordination]] that assigns or constrains roles, authorities, dependencies, information flows, protocols, and accountability relations among agents.
+> Computational structure for [[Coordination in Agent Systems|coordination]] that assigns or constrains roles, authorities, dependencies, information flows, protocols, and [[Accountability in Agent Systems|accountability]] relations among agents.
 >
 > - Role - what functions exist?
 > - Authority - who can decide?

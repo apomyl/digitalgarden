@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-10-17T19:24:46.797Z
-modified: 2026-10-18T16:33:54.222Z
+modified: 2026-10-21T11:13:56.621Z
 tags:
   - intelligentagents
   - school
 ---
 
 > [!garden] Summary
-> This page breaks down key concepts of a [[Norms in Agent Systems|Normative]] approach to [[Multi-Agent Systems]].
+> This page breaks down key concepts of a [[Normative Multi-Agent Systems|Normative]] approach to [[Multi-Agent Systems]].
 
 > [!definition] Formal Definition
 > Each norm involves a:

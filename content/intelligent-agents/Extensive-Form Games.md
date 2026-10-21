@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-20T12:02:46.673Z
-modified: 2026-10-20T12:56:15.678Z
+modified: 2026-10-21T11:58:05.529Z
 tags:
   - intelligentagents
   - school
@@ -9,7 +9,7 @@ tags:
 ---
 
 > [!definition]
-> A game specification that uses a tree to show the exact sequence of moves and final payoffs, compared to a [[Repeated Normal-Form Games|Normal-Form Game]] that uses a matrix.
+> A [[Taxonomy for Decision (Game) Environments|game specification]] that uses a tree to show the exact sequence of moves and final payoffs, compared to a [[Repeated Normal-Form Games|Normal-Form Game]] that uses a matrix.
 >
 > Nodes - represent who moves
 > Edges - represent possible actions

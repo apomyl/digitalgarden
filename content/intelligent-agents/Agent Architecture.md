@@ -1,15 +1,24 @@
 ---
 publish: true
 created: 2026-10-17T12:08:53.534Z
-modified: 2026-10-17T12:10:56.125Z
+modified: 2026-10-21T10:38:25.682Z
 tags:
   - intelligentagents
   - school
 ---
 
 > [!definition]
-> Structure defining how an agent represents data and handles computation to bridge the gap between perception and action
+> How we define an [[Agents]]' internal representation of data and how they handle computation to bridge the gap between perception and action.
 >
-> Examples: [[Sense-Decide-Act]], [[Belief-Desire-Intention]]
+> There are many architecture choices to consider (not everything is needed):
+>
+> - maintaining internal state
+>   - [[Belief-Desire-Intention]], [[Policy]], [[Model-based Agent]]
+> - how to act and respond to change
+>   - [[Rationality in agents]], [[Sense-Decide-Act]], [[Reactive Agent]]
+> - interacting with other agents
+>   - [[Communication in Agent Systems]], [[Coordination in Agent Systems]], [[Organisations in MAS]], [[Norms in Agent Systems]]
+> - determining good actions / learning
+>   - [[Reward Functions]], [[Reinforcement learning]]
 
 #### References

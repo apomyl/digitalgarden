@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Norms
 created: 2026-10-17T17:26:46.390Z
-modified: 2026-10-17T19:14:49.724Z
+modified: 2026-10-21T11:00:43.769Z
 tags:
   - intelligentagents
   - school
@@ -26,4 +26,4 @@ Norms provide a rigorous basis for coherence, which we view as a relaxed notion 
 
 #### References
 
-- [[Norms as a Basis or Governing Sociotechnical Systems Extended Abstract]]
+- [[Norms as a Basis for Governing Sociotechnical Systems Extended Abstract]]

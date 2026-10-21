@@ -3,7 +3,7 @@ publish: true
 aliases:
   - coordination
 created: 2026-10-18T17:30:21.729Z
-modified: 2026-10-20T09:15:44.283Z
+modified: 2026-10-21T11:25:15.848Z
 tags:
   - intelligentagents
   - school
@@ -24,14 +24,14 @@ tags:
 > - [[Task Allocation|allocation]] - who does which task?
 > - scheduling ([[Multi-Agent Path Finding|path coordination]]) - when should things happen?
 > - resource coordination - who gets scarce resources?
-> - joint activity - how do agents act as a team?
+> - [[Joint action|joint activity]] - how do agents act as a team?
 
 > [!question] Difference between coordination and communication?
 > [[Communication in Agent Systems|Communication]] focuses on interactions, what was said between agents, expectations, etc.
 >
 > Coordination focuses on if actions are mutually compatible, is duplicate work being done, are resources managed efficiently, etc.
 
-We can use [[Organisations in MAS]] as a coordination structure
+We can use [[Organisations in MAS]] to stucture coordination globally by establishing [[Norms in Agent Systems|rules]] to dictate how agents act.
 
 - Organisations reduce coordination burden by shaping who can do what, who knows what, and who decides
 
@@ -57,6 +57,6 @@ We can use [[Organisations in MAS]] as a coordination structure
 > - delay to reach agreement
 > - privacy loss
 > - explainability of allocation
-> - accountability evidence
+> - [[Trust and Reputation|accountability evidence]]
 
 #### References

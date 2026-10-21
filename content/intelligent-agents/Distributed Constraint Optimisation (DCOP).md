@@ -3,14 +3,14 @@ publish: true
 aliases:
   - DCOP
 created: 2026-10-19T11:22:09.789Z
-modified: 2026-10-20T09:39:59.701Z
+modified: 2026-10-21T10:58:54.517Z
 tags:
   - intelligentagents
   - school
 ---
 
 > [!definition]
-> A problem in which a group of agents must [[Task Allocation|distributedly]] choose values for a set of variables such that the cost of a set of constraints over the variables is minimised
+> A problem in which a group of agents must [[Task Allocation|distributedly]] choose values for a set of variables (which action each takes) such that the cost of a set of constraints over the variables is minimised
 >
 > Decomposes a global optimisation problem into local variables, constraints, and utilities that agents solve through message passing
 >
@@ -34,3 +34,4 @@ This is only the framework/description of the problem, it can be solved using an
 #### References
 
 - https://en.wikipedia.org/wiki/Distributed\_constraint\_optimization
+- [[A Scalable Method for Multiagent Constraint Optimization]]

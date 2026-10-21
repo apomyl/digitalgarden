@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-17T17:13:12.949Z
-modified: 2026-10-18T16:34:57.601Z
+modified: 2026-10-21T11:14:24.332Z
 tags:
   - intelligentagents
   - school
@@ -10,9 +10,9 @@ tags:
 > [!definition]
 > An open network where [[Autonomous Agents]] and human participants act as peers, coordinating through shared social [[Norms in Agent Systems|norms]], technical protocols and joint [[Accountability in Agent Systems|accountability]].
 >
-> Formally in [[Norms as a Basis or Governing Sociotechnical Systems Extended Abstract]]:
+> Formally in [[Norms as a Basis for Governing Sociotechnical Systems Extended Abstract]]:
 >
-> An organisation that includes two or more roles, each specified in terms of the [[Norms in Agent Systems|Norms]] applying to it. An organisation is defined via norms and a norm is defined in an organisation.
+> "An organisation that includes two or more roles, each specified in terms of the [[Norms in Agent Systems|Norms]] applying to it. An organisation is defined via norms and a norm is defined in an organisation."
 
 > [!definition] Open Network
 > A party may live and act outside the scope of a sociotechnical system while remaining subject to the norms defined in the system
@@ -26,7 +26,7 @@ Two key principles are followed for adaptation:
 
 ##### Conceptual Model of STS
 
-> [!summary] Model from [[Norms as a Basis or Governing Sociotechnical Systems Extended Abstract|paper]]
+> [!summary] Model from [[Norms as a Basis for Governing Sociotechnical Systems Extended Abstract|paper]]
 > ![[media/Sociotechnical Systems-1792264588407.webp|403]]
 >
 > Elements of a role façade

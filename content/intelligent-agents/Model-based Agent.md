@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-17T09:34:52.938Z
-modified: 2026-10-17T09:35:44.068Z
+modified: 2026-10-21T10:20:25.306Z
 tags:
   - intelligentagents
   - school
@@ -14,5 +14,7 @@ tags:
 > - remember relevant past information
 > - account for effects of previous actions
 > - combine memory with new observations
+
+An example of a model-based agent design is [[Belief-Desire-Intention]].
 
 #### References
