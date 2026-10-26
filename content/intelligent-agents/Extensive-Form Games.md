@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-20T12:02:46.673Z
-modified: 2026-10-21T11:58:05.529Z
+modified: 2026-10-26T15:42:52.640Z
 tags:
   - intelligentagents
   - school
@@ -14,6 +14,7 @@ tags:
 > Nodes - represent who moves
 > Edges - represent possible actions
 > Leaves - final rewards
+> Strategy - specifies an action at every node where an agent might move
 
 We solve these through [[Backward Induction]], starting from leaves and moving upwards, at each step we assume agent picks its best continuation. This is in order to achieve a [[Subgame Perfect Equilibrium]]. Using a normal payoff matrix would give us multiple sub-optimal [[Nash Equilibrium]].
 

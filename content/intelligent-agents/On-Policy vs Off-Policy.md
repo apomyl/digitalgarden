@@ -4,7 +4,7 @@ aliases:
   - on-policy
   - off-policy
 created: 2026-10-21T17:35:37.274Z
-modified: 2026-10-21T17:57:47.349Z
+modified: 2026-10-22T10:01:56.037Z
 tags:
   - intelligentagents
   - machinelearning
@@ -12,7 +12,7 @@ tags:
 ---
 
 > [!definition]
-> Terms in [[Reinforcement learning]] referring to [[Policy]] of RL agents (e.g. [[ε-Greedy]]).
+> Terms in [[Reinforcement Learning]] referring to [[Policy]] of RL agents (e.g. [[ε-Greedy]]).
 >
 > - Οn-Policy - agent learns value of exact policy it's running – including mistakes and exploration
 >   - i.e. if agent explores randomly with 10% chance, it factors that in when evaluating states

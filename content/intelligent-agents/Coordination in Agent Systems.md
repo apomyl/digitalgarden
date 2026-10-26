@@ -3,14 +3,14 @@ publish: true
 aliases:
   - coordination
 created: 2026-10-18T17:30:21.729Z
-modified: 2026-10-21T11:25:15.848Z
+modified: 2026-10-26T13:41:06.675Z
 tags:
   - intelligentagents
   - school
 ---
 
 > [!definition]
-> [[Joint action]] under distributed information and control in [[Multi-Agent Systems]]. Concerned with the joint outcome not just interactions.
+> [[Joint Action and Policy]] under distributed information and control in [[Multi-Agent Systems]]. Concerned with the joint outcome not just interactions.
 >
 > Key Goals:
 >
@@ -24,7 +24,7 @@ tags:
 > - [[Task Allocation|allocation]] - who does which task?
 > - scheduling ([[Multi-Agent Path Finding|path coordination]]) - when should things happen?
 > - resource coordination - who gets scarce resources?
-> - [[Joint action|joint activity]] - how do agents act as a team?
+> - [[Joint Action and Policy|joint activity]] - how do agents act as a team?
 
 > [!question] Difference between coordination and communication?
 > [[Communication in Agent Systems|Communication]] focuses on interactions, what was said between agents, expectations, etc.

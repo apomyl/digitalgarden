@@ -1,7 +1,9 @@
 ---
 publish: true
+aliases:
+  - Solution concepts
 created: 2026-10-20T10:26:47.439Z
-modified: 2026-10-21T18:14:29.645Z
+modified: 2026-10-26T15:33:39.736Z
 tags:
   - intelligentagents
   - school
@@ -18,7 +20,7 @@ An example of a policy configuration (a solution concept) is [[Nash Equilibrium]
 
 We can evaluate a joint policy (collective efficiency) with [[Pareto Optimality]]
 
-#### Key concepts:
+#### Key solution concepts:
 
 > [!definition] Best Response
 > Agent $i$'s best response to the other agents' policies

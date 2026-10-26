@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Single-Agent Bandits
 created: 2026-10-21T14:23:47.743Z
-modified: 2026-10-21T15:58:26.073Z
+modified: 2026-10-22T10:01:56.058Z
 tags:
   - intelligentagents
   - machinelearning
@@ -11,7 +11,7 @@ tags:
 ---
 
 > [!definition]
-> A [[Reinforcement learning]] problem set up where an agent has k arms that give a reward with an unknown distribution. Each round, agent picks an arm and gets a reward for that arm only.
+> A [[Reinforcement Learning]] problem set up where an agent has k arms that give a reward with an unknown distribution. Each round, agent picks an arm and gets a reward for that arm only.
 >
 > Only one agent, one state - form of [[Markov Decision Process]]
 >

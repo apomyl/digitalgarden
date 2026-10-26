@@ -3,7 +3,7 @@ publish: true
 aliases:
   - MAS
 created: 2026-10-18T11:43:08.463Z
-modified: 2026-10-21T11:16:09.950Z
+modified: 2026-10-26T19:55:47.147Z
 tags:
   - intelligentagents
   - school
@@ -23,6 +23,7 @@ tags:
 > - Roles and authority (established by the organisation)
 > - [[Communication in Agent Systems|Communication]]
 > - [[Coordination in Agent Systems|Coordination]]
+> - [[Cooperation in Agent Systems|Cooperation]]
 > - [[Argumentation]]
 > - [[Negotiation]]
 > - [[Accountability in Agent Systems|Accountability]]

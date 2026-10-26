@@ -21,7 +21,7 @@ tags:
 
 ###### List of all notes tagged #intelligentagents :
 
-- [[Obsidian/3. Slip Box/Slip Box/Reinforcement learning.md|Reinforcement learning]]
+- [[intelligent-agents/Reinforcement Learning.md|Reinforcement Learning]]
 - [[intelligent-agents/Agents.md|Agents]]
 - [[intelligent-agents/Reactive Agent.md|Reactive Agent]]
 - [[intelligent-agents/Model-based Agent.md|Model-based Agent]]
@@ -49,7 +49,7 @@ tags:
 - [[intelligent-agents/Coordination in Agent Systems.md|Coordination in Agent Systems]]
 - [[intelligent-agents/Communication in Agent Systems.md|Communication in Agent Systems]]
 - [[intelligent-agents/Task Allocation.md|Task Allocation]]
-- [[intelligent-agents/Joint action.md|Joint action]]
+- [[intelligent-agents/Joint Action and Policy.md|Joint Action and Policy]]
 - [[intelligent-agents/Contract Net.md|Contract Net]]
 - [[intelligent-agents/Multi-Agent Path Finding.md|Multi-Agent Path Finding]]
 - [[intelligent-agents/Organisations in MAS.md|Organisations in MAS]]
@@ -62,7 +62,7 @@ tags:
 - [[intelligent-agents/Prisoner's Dilemma.md|Prisoner's Dilemma]]
 - [[intelligent-agents/Nash Equilibrium.md|Nash Equilibrium]]
 - [[intelligent-agents/Pareto Optimality.md|Pareto Optimality]]
-- [[intelligent-agents/Correlated Equilbirium.md|Correlated Equilbirium]]
+- [[intelligent-agents/Correlated Equilibrium.md|Correlated Equilibrium]]
 - [[intelligent-agents/Extensive-Form Games.md|Extensive-Form Games]]
 - [[intelligent-agents/Strategic Agents.md|Strategic Agents]]
 - [[intelligent-agents/Subgame Perfect Equilibrium.md|Subgame Perfect Equilibrium]]
@@ -91,6 +91,17 @@ tags:
 - [[intelligent-agents/Non-Stationarity.md|Non-Stationarity]]
 - [[intelligent-agents/Central Learning.md|Central Learning]]
 - [[intelligent-agents/JAL-AM.md|JAL-AM]]
+- [[intelligent-agents/Deep Q-Network (DQN).md|Deep Q-Network (DQN)]]
+- [[intelligent-agents/Coordination Graphs.md|Coordination Graphs]]
+- [[intelligent-agents/Role Allocation.md|Role Allocation]]
+- [[intelligent-agents/Central Q-Learning.md|Central Q-Learning]]
+- [[intelligent-agents/Independent Q-Learning.md|Independent Q-Learning]]
+- [[intelligent-agents/Multi-Agent Credit Assignment.md|Multi-Agent Credit Assignment]]
+- [[intelligent-agents/Joint Intentions.md|Joint Intentions]]
+- [[intelligent-agents/Perceptual Aliasing.md|Perceptual Aliasing]]
+- [[intelligent-agents/PEAS.md|PEAS]]
+- [[intelligent-agents/Practical Reasoning.md|Practical Reasoning]]
+- [[intelligent-agents/Time-Scale Hierarchy.md|Time-Scale Hierarchy]]
 
 ###### Literature:
 

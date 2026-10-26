@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-19T09:44:23.934Z
-modified: 2026-10-19T10:46:21.918Z
+modified: 2026-10-26T17:28:52.129Z
 tags:
   - intelligentagents
   - school
@@ -37,8 +37,22 @@ tags:
 >
 > $\sum_i x_{ij} \le 1 \quad \forall j \in T, \qquad \sum_j x_{ij} \le c_i \quad \forall i \in N.$
 
+> [!bug] When tasks are not independent (Complementarity)
+> Standard auctions ([[Contract Net]]) assume tasks have independent values, this means they fail when tasks work in synergy.
+>
+> Why does it break it? An agent could get a task that is dependent on another and that other task is failed, meaning it is stuck with a useless task it can't fulfill
+>
+> - Independent-Value Model (Contract Net assumption):
+>   $V(S) = \sum_{j \in S} v_j$
+>   _(total value is simply the sum of individual task values)_
+>
+> - Complementarity:
+>   $V(\{map, deliver\}) > V(\{map\}) + V(\{deliver\})$
+>   _(the whole is strictly greater than the sum of its parts)_
+
 Solutions:
 
 - [[Contract Net]] - auction system
+- [[Coordination Graphs]]
 
 #### References

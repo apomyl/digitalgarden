@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-19T10:48:03.210Z
-modified: 2026-10-19T10:56:31.893Z
+modified: 2026-10-26T13:41:06.681Z
 tags:
   - intelligentagents
   - school
@@ -24,7 +24,7 @@ tags:
 > - Reservation - agents reserve cells/time slots (first-come first-served)
 >   - provides explicit ownership, easy to audit
 >   - can fragment capacity (idle time)
-> - [[Joint action|Joint planning]] - plan for all agents together
+> - [[Joint Action and Policy|Joint planning]] - plan for all agents together
 >   - best result at higher cost
 >   - hard for private goals
 

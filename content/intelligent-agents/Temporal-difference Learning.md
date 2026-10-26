@@ -3,7 +3,7 @@ publish: true
 aliases:
   - TD learning
 created: 2026-10-21T17:05:28.321Z
-modified: 2026-10-21T17:57:24.577Z
+modified: 2026-10-26T16:19:30.326Z
 tags:
   - intelligentagents
   - machinelearning
@@ -11,7 +11,7 @@ tags:
 ---
 
 > [!definition]
-> [[Reinforcement learning]] technique where you update value estimates directly from sampled transitions, without needing to know $\mathcal{T}$ or $\mathcal{R}$ ([[Markov Decision Process]])
+> [[Reinforcement Learning]] technique where you update value estimates $Q$ directly from sampled transitions $\mathcal{X}$, without needing to know $\mathcal{T}$ or $\mathcal{R}$ ([[Markov Decision Process]])
 > $Q(s,a) \leftarrow Q(s,a)+\alpha[\mathcal{X}-Q(s,a)]$
 >
 > - $\mathcal{X}$ - the target: an estimate of the true value

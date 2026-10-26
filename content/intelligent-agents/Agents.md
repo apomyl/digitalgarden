@@ -3,13 +3,21 @@ publish: true
 aliases:
   - agent
 created: 2026-10-17T09:23:57.151Z
-modified: 2026-10-21T12:20:22.991Z
+modified: 2026-10-26T20:30:21.624Z
 tags:
   - intelligentagents
   - school
 ---
 
-![[Is it an agent or just a program?#Definition]]
+> [!definition]
+> A software agent is defined below as a function and in words
+>
+> Let O be the set of observations and A the set of actions:
+> $f : O^* \to A$
+> $a_t = f(o_1, o_2, \dots, o_t)$
+> _we use the observation history instead of the latest local observation because in a partially observable world, [[Perceptual Aliasing|one observation isn't enough to determine the true world state]]_
+>
+> ![[Is it an agent or just a program?#Definition]]
 
 Definition/Feature breakdown:
 
@@ -24,7 +32,8 @@ Definition/Feature breakdown:
 > Properties of an Intelligent Agent:
 >
 > - **[[Autonomous Agents|Autonomy]]** - controls aspects of its behaviour
-> - **[[Reactive Agent|Reactivity]]** - responds to environmental changes in time
+> - **Reactivity** - responds to environmental changes in time
+>   - _a [[Reactive Agent|reactive agent]]_ is an agent who relies solely on the latest observation
 > - **Social ability** - interacts with other agents meaningfully (and humans)
 > - **Proactivity** - takes initiative towards future objectives
 >
@@ -46,6 +55,7 @@ Definition/Feature breakdown:
 > - How can we represent agent goals? - [[Model-based Agent]], [[Belief-Desire-Intention]]
 > - What's a basic way an agent can determine how to act? - [[Sense-Decide-Act]]
 > - Different types of agents? - [[Agent Architecture]]
+> - How can we determine good behaviour? - [[PEAS]]
 
 #### References
 

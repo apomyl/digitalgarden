@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-20T10:37:56.316Z
-modified: 2026-10-20T12:12:23.976Z
+modified: 2026-10-26T15:38:27.680Z
 tags:
   - intelligentagents
   - school
@@ -9,9 +9,7 @@ tags:
 ---
 
 > [!definition]
-> A [[Policy]] configuration where each player in the game chooses the best strategy possible, given the choices of the other players, no player can improve their outcome by unilaterally (by themselves) changing their strategy.
->
-> A game state where agents do the same move every time, with no incentive for any to change action.
+> A [[Joint Action and Policy|Joint Policy]], where each player in the game chooses the best strategy possible, given the choices of the other players, no player can improve their outcome by unilaterally (by themselves) changing their strategy.
 
 Joint policy $\pi$ is a Nash Equilibrium if every agent's policy is a best response to the others:
 $\forall i, \pi'_i : U_i(\pi'_i, \pi_{-i}) \le U_i(\pi)$
@@ -41,7 +39,7 @@ $\forall i, \pi'_i : U_i(\pi'_i, \pi_{-i}) \le U_i(\pi)$
 > e.g. In [[Prisoner's Dilemma]] the equilibrium (Defect, Defect) is _pareto-dominated_ by (Cooperate, Cooperate)
 
 > [!question] How can we improve NE?
-> NE assumes agents act independently, if we use a shared signal, we can get better results. This is a [[Correlated Equilbirium]].
+> NE assumes agents act independently, if we use a shared signal, we can get better results. This is a [[Correlated Equilibrium]].
 >
 > Every NE is a CE but not conversely: CE can reach rewards no NE can.
 >

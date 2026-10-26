@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-20T10:30:18.333Z
-modified: 2026-10-21T11:55:44.946Z
+modified: 2026-10-26T17:34:22.598Z
 tags:
   - intelligentagents
   - game-theory
@@ -15,5 +15,7 @@ tags:
 
 This is the payoff matrix:
 ![[media/Prisoner's Dilemma-1792492291348.webp|349]]
+
+![[media/Prisoner's Dilemma-1793036051430.webp]]
 
 #### References

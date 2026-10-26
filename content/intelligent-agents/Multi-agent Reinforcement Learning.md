@@ -3,7 +3,7 @@ publish: true
 aliases:
   - MARL
 created: 2026-10-21T18:03:42.739Z
-modified: 2026-10-21T19:29:34.096Z
+modified: 2026-10-26T19:24:09.294Z
 tags:
   - intelligentagents
   - machinelearning
@@ -26,13 +26,17 @@ This introduces new problems for learning:
 Three ways to deal with the challenges:
 
 - [[Central Learning]] - one learner controls all agents, choosing a joint action
-- Independent learning - each agent learns alone, treating the others as part of the environment
+- Independent Learning - each agent learns alone, treating the others as part of the environment
 - [[JAL-AM]] - each agent learns joint-action values and models the others
-  First two reduce MARL to single agent [[Reinforcement learning|RL]], JAL-AM is in between.
+  First two reduce MARL to single agent [[Reinforcement Learning|RL]], JAL-AM is in between.
 
-We can apply both central and independent learning to [[Q-learning]] and compare to JAL-AM
+| Approach                         | Non-stationarity | Multi-agent Credit Assignment | Scaling to Many Agents |
+| -------------------------------- | ---------------- | ----------------------------- | ---------------------- |
+| **Central Learning (CQL)**       | $\checkmark$     | $\checkmark$                  | $\times$               |
+| **Independent Learning (IQL)**   | $\times$         | $\times$                      | $\checkmark$           |
+| **JAL-AM** _(the middle ground)_ | **partly**       | **helps**                     | $\times$               |
+
+We can apply both [[Central Q-Learning|central]] and [[Independent Q-Learning|independent]] learning to [[Q-learning]] and compare to JAL-AM
 ![[media/Multi-agent Reinforcement Learning-1792610943238.webp]]
-
-![[media/Multi-agent Reinforcement Learning-1792610965927.webp]]
 
 #### References

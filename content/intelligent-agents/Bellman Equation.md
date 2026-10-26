@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-21T16:33:11.006Z
-modified: 2026-10-21T17:04:37.661Z
+modified: 2026-10-22T10:01:56.048Z
 tags:
   - intelligentagents
   - machinelearning
@@ -11,7 +11,7 @@ tags:
 > [!definition]
 > Value now = reward now + discounted value next
 >
-> Equation expressing the value of a state recursively as the immediate [[Reward Functions|reward]] received plus the [[Patience|discounted]] expected value of the next state in [[Reinforcement learning]].
+> Equation expressing the value of a state recursively as the immediate [[Reward Functions|reward]] received plus the [[Patience|discounted]] expected value of the next state in [[Reinforcement Learning]].
 
 > [!tldr] Equations
 > $V^\pi(s) = \mathbb{E}_\pi \big[ r_t + \gamma V^\pi(s_{t+1}) \mid s_t = s \big]$

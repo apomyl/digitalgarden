@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-17T17:13:12.949Z
-modified: 2026-10-21T11:14:24.332Z
+modified: 2026-10-26T13:31:12.337Z
 tags:
   - intelligentagents
   - school
@@ -16,6 +16,9 @@ tags:
 
 > [!definition] Open Network
 > A party may live and act outside the scope of a sociotechnical system while remaining subject to the norms defined in the system
+
+> [!definition] Principals and Agents
+> A principal is an individual or organisation responsible for the software agents, they set a [[Policy]] and [[Norms in Agent Systems|Norms]].
 
 ###### Maintaining an adaptive long-lived system
 
@@ -39,7 +42,7 @@ Two key principles are followed for adaptation:
 >   - e.g. a teacher is required to help students upon request
 > - [[Normative Concepts]]
 
-![[media/Sociotechnical Systems and Social Norms-1790672935291.webp|483]]
+![[media/Sociotechnical Systems and Social Norms-1790672935291.webp|569]]
 (Figure from lectures)
 
 #### References

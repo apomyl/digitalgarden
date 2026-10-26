@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-21T12:03:51.670Z
-modified: 2026-10-21T13:51:20.170Z
+modified: 2026-10-26T13:41:06.699Z
 tags:
   - intelligentagents
   - game-theory
@@ -17,7 +17,7 @@ tags:
 > - For each agent $i \in I$:
 >   - $A_i$ - finite set of actions
 >   - $\mathcal{R}_i : S \times A \times S \to \mathbb{R}$ - [[Reward Functions|reward function]]
->   - $A = A_1 \times \dots \times A_n$ - set of [[Joint action|joint actions]]
+>   - $A = A_1 \times \dots \times A_n$ - set of [[Joint Action and Policy|joint actions]]
 > - $\mathcal{T} : S \times A \times S \to [0, 1]$ - state transition function
 > - $\mu : S \to [0, 1]$ - initial state distribution
 
