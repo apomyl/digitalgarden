@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-22T09:54:05.592Z
-modified: 2026-10-23T11:19:44.255Z
+modified: 2026-10-29T14:35:13.634Z
 tags:
   - MOC
   - deeplearning
@@ -18,10 +18,9 @@ tags:
 #### Good starting points:
 
 - [[Neural Networks]]
-- [[Cost Functions]]
+- [[Generalisation]] & [[Regularisation Techniques]]
 - [[Optimisation Techniques]]
 - [[Convolutional Neural Networks]]
-- [[Hyperparameters]]
-- [[Regularisation and Generalisation]]
+- [[Hyperparameter Tuning]]
 
 #### References

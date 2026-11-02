@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-30T12:48:05.534Z
-modified: 2026-10-22T10:07:11.611Z
+modified: 2026-10-29T14:27:38.160Z
 tags:
   - school
   - machinelearning
@@ -14,6 +14,6 @@ tags:
 > [!success] Solutions
 >
 > - [[Gradient Clipping]]
-> - [[Residual Network]]
+> - [[Residual Neural Networks]]
 
 #### References

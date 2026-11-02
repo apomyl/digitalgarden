@@ -4,7 +4,7 @@ aliases:
   - Overfitting
   - Underfitting
 created: 2026-09-30T13:08:56.840Z
-modified: 2026-09-30T13:35:02.646Z
+modified: 2026-10-28T16:25:37.349Z
 tags:
   - school
   - machinelearning
@@ -22,7 +22,7 @@ tags:
 > [!success] Solutions to Overfitting
 >
 > - [[Cross-validation]]
-> - [[Weight Decay]]
+> - [[L2 Regularisation]]
 > - [[Dropout]]
 > - Collect more data
 

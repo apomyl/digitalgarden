@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-15T17:53:49.116Z
-modified: 2026-10-18T15:48:29.405Z
+modified: 2026-11-01T16:20:43.889Z
 tags:
   - substack
   - aisafety
@@ -25,7 +25,7 @@ tags:
 > For example:
 >
 > - The first proposed "essential reading" by 80,000 is an article by one of EA's founders: [[William MacAskill]].
-> - 80,000 hours consistently promotes EA values, often presenting them as concrete facts e.g. In [this article](https://80000hours.org/career-guide/high-impact-careers/), 80,000 hours describes the best way to make an impact. The number one best way, of course, being: "Earning to give"
+> - 80,000 hours consistently promotes EA values, often presenting them as concrete facts e.g. In [this article](https://80000hours.org/career-guide/high-impact-careers/), 80,000 hours describes the best way to make an impact. The number one best way being: "Earning to give", the main idea behind [[Effective Altruism]].
 >
 > Despite the "clickbait-y" titles, the author raises genuine well-founded concerns about the organisation.
 >

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-24T20:58:48.975Z
-modified: 2026-10-22T10:07:11.587Z
+modified: 2026-10-28T12:35:53.548Z
 tags:
   - school
   - deeplearning
@@ -9,7 +9,7 @@ tags:
 ---
 
 > [!definition] Backpropagation Algorithm
-> Algorithm to efficiently calculate the [[Error Derivatives and Gradient|error gradient]] by propagating the output error backward through the layers of a [[Neural Networks|Neural Network]].
+> Algorithm to efficiently calculate the [[Error Derivatives and Gradient|error gradient]] by propagating the output error backwards through the layers of a [[Neural Networks|Neural Network]]. We can't simply use [[Delta Rule]] anymore as hidden layers don't have a true value so we have to find a way to assign blame to earlier layers based on the output.
 >
 > Formula:
 > $\delta_j = h'(a_j) \sum_k w_{kj}\delta_k$
@@ -32,3 +32,6 @@ tags:
 > ![[Images/Backpropagation Algorithm-1790323621793.webp|295]]
 
 #### References
+
+- https://www.youtube.com/watch?v=Ilg3gGewQ5U\&list=PLZHQObOWTQDNU6R1\_67000Dx\_ZCJB-3pi
+- https://www.youtube.com/watch?v=tIeHLnjs5U8\&pp=ugUHEgVlbi1VUw%3D%3D

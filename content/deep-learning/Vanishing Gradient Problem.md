@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-25T08:17:56.391Z
-modified: 2026-09-30T13:06:46.065Z
+modified: 2026-10-29T14:27:38.165Z
 tags:
   - school
   - deeplearning
@@ -13,7 +13,7 @@ tags:
 
 > [!success] Solutions
 >
-> - [[Residual Network]]
+> - [[Residual Neural Networks]]
 
 #### References
 

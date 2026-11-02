@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-10-15T18:02:23.073Z
-modified: 2026-10-18T14:09:46.667Z
+modified: 2026-10-30T16:51:34.064Z
 tags:
   - aisafety
   - scientific-papers
@@ -65,3 +65,8 @@ Grand challenges:
   - radical shared abundance
   - safety from rising incomes
   - enabling trades
+
+Idea that sticks out to me:
+
+- improved negotiation - agents can negotiate with secrets that can then be forgotten leading to mutual benefit
+- race to the bottom - most recently USA has declared it a "race" and started spending trillions on data centres and even developed a government agency for super intelligence https://www.si.gov

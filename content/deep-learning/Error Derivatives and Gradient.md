@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-24T20:16:35.672Z
-modified: 2026-09-28T08:47:47.321Z
+modified: 2026-10-28T12:02:44.360Z
 tags:
   - school
   - deeplearning
@@ -54,5 +54,17 @@ tags:
 > can be reformulated to give the [[Backpropagation Algorithm|backpropagation formula]]:
 >
 > $\delta_j = h'(a_j) \sum_k w_{kj} \delta_k$
+
+#### 3Blue1Brown breakdown for [[Backpropagation Algorithm]]
+
+![[media/Error Derivatives and Gradient-1793188636219.webp|417]]
+
+We use chain rule to calculate the ratio between the cost and the weight change. We use the cost $C$, the activation function of current neuron $a^{(L)}$ and a combination of weight, previous activation and bias $z^{(L)}$.
+
+The goal is to find the impact of bias, weight or the previous activation on the cost. So we do partial derivatives for each.
+
+![[media/Error Derivatives and Gradient-1793188549277.webp]]
+
+For bias or the previous activation function we just swap the weight with bias in the equation
 
 #### References
